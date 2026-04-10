@@ -1,2 +1,2 @@
 # employee-promotion-prediction
-Mashin Learning project to predict emploee decisions using HR analatics data
+Machin Learning project to predict emploee decisions using HR analytics data
