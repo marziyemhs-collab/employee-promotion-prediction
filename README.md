@@ -23,6 +23,12 @@ The dataset used in this project is a public HR analytics dataset from Kaggle. I
 Target variable:
 - `is_promoted`
 
+This project uses the public **HR Analytics** dataset from Kaggle:
+
+[HR Analytics Dataset](https://www.kaggle.com/datasets/arashnic/hr-ana?resource=download)
+
+**Note:** The raw dataset is not included in this repository. It should be downloaded directly from Kaggle.
+
 ## Workflow
 The project follows these steps:
 
